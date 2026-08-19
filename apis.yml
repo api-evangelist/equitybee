@@ -33,7 +33,7 @@ x-enrichment:
   status: no-public-api
   notes: Public marketing/account website only; no developer API, SDK, well-known discovery
     docs, or status page found. Identity/link-property hygiene applied.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
