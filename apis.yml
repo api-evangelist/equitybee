@@ -9,6 +9,17 @@ description: EquityBee is a fintech marketplace that helps startup employees fun
   accredited investors, and the private companies whose equity underlies each funded position.
   EquityBee publishes a public marketing and account website but exposes no public developer
   API, SDK, or machine-readable API discovery surface at this time.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
