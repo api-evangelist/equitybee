@@ -50,7 +50,7 @@ modified: '2026-07-19'
 tags:
 - Company
 - Fintech
-- Financial-Services
+- Financial Services
 - Equity
 - Stock Options
 - Marketplace
@@ -67,6 +67,7 @@ tags_raw:
 - Investing
 - Startups
 - Pre-IPO
+- Financial-Services
 apis: []
 common:
 - type: DomainSecurity
